@@ -1,0 +1,19 @@
+{
+	"uxbiases":[
+		{
+			"titl": "Base Rate Fallacy",
+			"desc": "If you have both general information and specific information, you tend to focus on the specific. The fallacy is committed when a person judges that an outcome will occur based on the specifics, ignoring the general probability that a thing is true. ",
+			"exam": "About 8% of all men are colorblind, but in your user research, testing an interface with a 3:1 color contrast ratio, 99/100 users report no problem. You would then assume that that less that only one percent of users have an issue - when, in fact, 8% will."
+		},
+		{
+			"titl": "Belief Bias",
+			"desc": "Belief Bias is when one's evaluation of the logical strength of an argument is biased by their belief in the truth or falsity of the conclusion.",
+			"exam": "&#34;What we need is a simple user interface, not options for our users,&#34; says Jessica from marketing, who has no data to support this conclusion."
+		},
+		{
+			"titl": "Cognitive Dissonance",
+			"desc": "Cognitive Dissonance is the mental stress or discomfort experienced by an individual who holds two or more contradictory beliefs, ideas, or values at the same time; performs an action that is contradictory to their beliefs, ideas, or values; or is confronted by new information that conflicts with existing beliefs, ideas or values.",
+			"exam": "&#34;An Android isn’t as good of a product as my iPhone,&#34; says Shawn, who has never used an Android smartphone."
+		}
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"titl": "Base Rate Fallacy",
+	"desc": "If you have both general information and specific information, you tend to focus on the specific. The fallacy is committed when a person judges that an outcome will occur based on the specifics, ignoring the general probability that a thing is true. ",
+	"exam": "About 8% of all men are colorblind, but in your user research, testing an interface with a 3:1 color contrast ratio, 99/100 users report no problem. You would then assume that that less that only one percent of users have an issue - when, in fact, 8% will."
+}
